@@ -3,7 +3,7 @@
 * {box-sizing:border-box}
 * {font-family: 'Courier New', Courier, monospace;}
 * body{
-  background-color: #ffff80;
+  background-color: #b2f5c3;
 }
 
 /* contêiner de apresentação de slides */
@@ -12,6 +12,12 @@
   max-height: 800px;
   position: relative;
   margin: auto;
+}
+
+/*Texto centralizado e fonte*/
+.titulo{
+  text-align: center;
+  font-family: 'fantasy', papyrus;
 }
 /* Ocultar as imagens por padrão */
 .mySlides {
