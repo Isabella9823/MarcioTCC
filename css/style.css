@@ -17,7 +17,7 @@
 /*Texto centralizado e fonte*/
 .titulo {
   text-align: center;
-  font-family: 'fantasy', papyrus;
+  font-family: 'Times New Roman', serif;
 }
 /* Ocultar as imagens por padrão */
 .mySlides {
