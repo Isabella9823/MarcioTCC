@@ -14,11 +14,6 @@
   margin: auto;
 }
 
-/*Texto centralizado e fonte*/
-.titulo {
-  text-align: center;
-  font-family: 'Times New Roman', serif;
-}
 /* Ocultar as imagens por padrão */
 .mySlides {
   display: none;
